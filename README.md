@@ -1,0 +1,1 @@
+An ethereum blockchain based web app which tries to create transparency in the funding process of Kickstarter website by creating smart contracts that takes care of the whole process of kickstarter website.
